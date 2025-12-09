@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneethUday&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PraneethUday&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
