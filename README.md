@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PraneethUday&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneethUday&layout=compact&theme=radical" height="180"/>
 </p>
 
@@ -61,6 +61,18 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PraneethUday&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PraneethUday/PraneethUday/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PraneethUday/PraneethUday/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
