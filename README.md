@@ -9,12 +9,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 Passionate about building **scalable web apps & cloud solutions**
-- 💻 Strong in **Frontend, Backend, and DevOps**
-- ☁️ Working with **AWS, Docker & CI/CD**
-- 🌱 Currently learning **System Design & Advanced Cloud**
-- 🏆 Active **Open Source Contributor**
-- 🚀 Career Goal: **High-impact Software Engineer**
+Motivated **3rd-year Computer Science Engineering student** with a strong interest in **software development, embedded systems, and web technologies**.  
+I have hands-on experience in **Python**, **Data Structures & Algorithms**, **MERN stack development**, and **embedded controller programming**.
+
+I am passionate about building **real-world, impact-driven projects**, particularly in areas such as **automation, cloud-based systems, and autonomous vehicle technologies**. I enjoy solving complex problems, learning new technologies, and translating ideas into reliable and scalable solutions.
+
+Currently, I am focused on strengthening my skills in **full-stack development, cloud & DevOps practices, and system design**, while actively contributing to **open-source projects**.
+
+🚀 **Actively seeking internship opportunities** where I can apply my technical skills, grow professionally, and contribute to meaningful engineering solutions.
 
 ---
 
@@ -90,12 +92,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## ✨ Fun Quote
-
-> *"First solve the problem. Then, write the code." — John Johnson*
 
 ---
 
