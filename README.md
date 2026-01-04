@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praneeth U</h1>
+<h1 align="center">Hi , I'm Praneeth U</h1>
 <h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | Open-Source Contributor</h3>
 
 <p align="center">
