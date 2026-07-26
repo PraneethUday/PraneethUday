@@ -10,6 +10,6 @@
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=PraneethUday&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-fork-two.vercel.app/?username=PraneethUday&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=PraneethUday&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
